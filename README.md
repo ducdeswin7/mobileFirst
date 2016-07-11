@@ -8,3 +8,7 @@ then open the command line to tape:
 
 the folder **dist** is where all the file are generated from the folder assets.
 if you want to edit or create styles or script you have to use the ***assets*** folder
+
+then launch the  local server: 
+
+``` gulp ```
